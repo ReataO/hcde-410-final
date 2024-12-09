@@ -27,7 +27,7 @@ This project investigates disparities in food accessibility across King County, 
 ---
 
 ## Requirements
-- Data set: 
+- Data set: The used to conduct this analysis is the Food Access Research Atlas dataset provided by the U.S. Department of Agriculture (USDA); this data is available [here](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/ ).
 - Python
 - Libraries:
   - `pandas`
