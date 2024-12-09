@@ -27,6 +27,7 @@ This project investigates disparities in food accessibility across King County, 
 ---
 
 ## Requirements
+- Data set: 
 - Python
 - Libraries:
   - `pandas`
